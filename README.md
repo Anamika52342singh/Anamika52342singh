@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika52342singh&show_icons=true&locale=en" alt="anamika52342singh" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika52342singh&" alt="anamika52342singh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika52342singh&" alt="anamika52342singh" /></p>
 
 
 <!--
