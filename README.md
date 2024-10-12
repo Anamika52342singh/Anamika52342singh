@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anamika Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right"alt="Coding" width="400"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika52342singh&label=Profile%20views&color=0e75b6&style=flat" alt="anamika52342singh" /> </p>
 
 - 🌱 I’m currently learning **DSA**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Anamika52342singh](https://github.com/Anamika52342singh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika52342singh&show_icons=true&locale=en" alt="anamika52342singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika52342singh&" alt="anamika52342singh" /></p>
-
 
 <!--
 **Anamika52342singh/Anamika52342singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
