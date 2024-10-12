@@ -21,8 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika52342singh&show_icons=true&locale=en" alt="anamika52342singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika52342singh&" alt="anamika52342singh" /></p>
-### 🔝Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anamika52342singh&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
 <!--
 **Anamika52342singh/Anamika52342singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
