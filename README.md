@@ -3,7 +3,7 @@
 <img align="right"alt="Coding" width="400"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika52342singh&label=Profile%20views&color=0e75b6&style=flat" alt="anamika52342singh" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🍄 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anamika52342singh](https://github.com/Anamika52342singh)
 
@@ -21,6 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika52342singh&show_icons=true&locale=en" alt="anamika52342singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika52342singh&" alt="anamika52342singh" /></p>
+### 🔝Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anamika52342singh&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <!--
 **Anamika52342singh/Anamika52342singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
