@@ -15,8 +15,9 @@
   
 -💬 Ask me about **Data Analytics** 
 </div>
+<br/>
 <div>
-<p><h3 align="center">Connect with me:</h3></p>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="mailto:anamikasingh52342@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
