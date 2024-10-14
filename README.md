@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Anamika Singh</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anamika+Singh!;" />
+</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"alt="Coding" width="400"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right"alt="Coding" width="300"height="200"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika52342singh&label=Profile%20views&color=0e75b6&style=flat" alt="anamika52342singh" /> </p>
-
+<br/>
+<div align ="left">
+  
 - 🍄 I’m currently learning **DSA**
-
+ 
 - 👨‍💻 All of my projects are available at [https://github.com/Anamika52342singh](https://github.com/Anamika52342singh)
-
+  
+- 💬 Ask me about **Data Analytics**
+  
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anamika-singh-040a75251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamika-singh-040a75251" height="30" width="40" /></a>
