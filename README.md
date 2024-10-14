@@ -54,13 +54,7 @@
 <br/><br/>
 <hr/>
 
-<br/>
 
-<div align="center">
-<a href='target='_blank'><img height='64' style='border:0px;height:64px;'  border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
 
 <!--
 **Anamika52342singh/Anamika52342singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
